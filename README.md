@@ -127,10 +127,6 @@ Interactive features include:
 - Develop region-specific retention strategies for Germany.
 - Continuously monitor customer churn using interactive dashboards.
 
-## Dashboard Preview
-
-![Customer Churn Dashboard](Images/Dashboard.png)
----
 
 ## Repository Structure
 
